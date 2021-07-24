@@ -138,7 +138,7 @@ input[type="submit"]:active {
 /* ------------------------------- */
 header {
   background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url("../img/hero.jpg");
+    url("resources/img/hero.jpg");
   height: 100vh;
   background-size: cover;
   background-position: center;
@@ -395,7 +395,7 @@ header {
 /* ------------------------------- */
 .section-testimonials {
   background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url("../img/back-customers.jpg");
+    url("resources/img/back-customers.jpg");
   background-size: cover;
   background-attachment: fixed;
   color: white;
